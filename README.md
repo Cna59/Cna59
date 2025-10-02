@@ -68,7 +68,26 @@ With expertise in modern infrastructure automation and continuous delivery, I he
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cna59&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"/>
+
+### 🔥 Contribution Streak
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Cna59&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Cna59&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+### 📈 Language Stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cna59&layout=compact&langs_count=8&theme=dark&bg_color=0d1117&hide_border=true&title_color=58a6ff&text_color=c9d1d9&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI"/>
+
+### ⏱️ Weekly Coding Activity
+
+[![wakatime](https://wakatime.com/badge/user/7daa0bde-21fc-40ec-babb-ff9be456f9c6.svg)](https://wakatime.com/@7daa0bde-21fc-40ec-babb-ff9be456f9c6)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 </div>
 
 ---
